@@ -91,7 +91,7 @@ const showMenu = (toggleId, navId) => {
     }
   
   
-    var messageArr = ["MERN Developer", "Frontend Developer", "Backend Developer"];
+    var messageArr = ["Web Developer", "Frontend Developer", "Backend Developer"];
     var textPosition = 0;
     var speed = 200;
   
